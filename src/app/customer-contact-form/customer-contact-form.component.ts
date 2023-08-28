@@ -54,7 +54,7 @@ export class CustomerContactFormComponent {
     });
   }
 
-  clearAllTheShit(): void {
+  clearAllTheShiz(): void {
     this.form.patchValue({
       firstName: '',
       lastName: '',
